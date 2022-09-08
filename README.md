@@ -10,5 +10,5 @@ Mengecek fungsi kalkulator, terdiri dari:
 - read file
 - write file
 
-# Cara menalankan
+# Cara menjalankan
 npm test
