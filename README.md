@@ -1,4 +1,4 @@
-# Nodes Testing (Mocha & Istanbul)
+# Nodejs Testing sinon, chai
 
 Mengecek fungsi kalkulator, terdiri dari:
 - Pertambahan
@@ -7,3 +7,8 @@ Mengecek fungsi kalkulator, terdiri dari:
 - Pembagian
 - Perpangkatan
 - Modulus
+- read file
+- write file
+
+# Cara menalankan
+npm test
